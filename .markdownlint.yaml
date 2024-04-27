@@ -176,6 +176,7 @@ MD033:
     - details
     - summary
     - img
+    - a
 
 # MD034/no-bare-urls - Bare URL used
 MD034: false
