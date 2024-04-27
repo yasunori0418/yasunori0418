@@ -16,9 +16,26 @@ not_likes:
 ## status
 
 <div align="center">
-  <img alt="yasunori0418 top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasunori0418&layout=compact&theme=nord" />
-  <img alt= "yasunori0418 GitHub stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yasunori0418&theme=nord&show_icons=true" />
-  <img alt="yasunori0418 trophy" src="https://github-profile-trophy.vercel.app/?username=yasunori0418&theme=nord&column=7">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      alt="yasunori0418 top Langs"
+      height="150px"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasunori0418&layout=compact&theme=nord"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      alt="yasunori0418's GitHub stats"
+      height="150px"
+      src="https://github-readme-stats.vercel.app/api?username=yasunori0418&theme=nord&show_icons=true"
+    />
+  </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img
+      alt="yasunori0418 trophy"
+      src="https://github-profile-trophy.vercel.app/?username=yasunori0418&theme=nord&column=5"
+    />
+  </a>
 </div>
 
 ## links
