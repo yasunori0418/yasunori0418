@@ -1,6 +1,37 @@
 # Hi! I'm yasunori0418!
 
-![yasunori0418](https://komarev.com/ghpvc/?username=yasunori0418)
+<p align="left">
+  <a href="https://github.com/yasunori0418/yasunori0418/">
+    <img
+      alt="yasunori0418"
+      src="https://komarev.com/ghpvc/?username=yasunori0418"
+    />
+  </a>
+  <a href="https://github.com/yasunori0418">
+    <img
+      alt="github followers"
+      height="20"
+      src="https://img.shields.io/github/followers/yasunori0418?label=follow&logo=github&style=flat"
+    />
+  </a>
+  <a href="https://github.com/yasunori0418">
+    <img
+      alt="github stars"
+      height="20"
+      src="https://img.shields.io/github/stars/yasunori0418?logo=github&style=flat"
+    />
+  </a>
+</p>
+
+<p align="left">
+  <a href="http://x.com/YKirin0418">
+    <img
+      alt="twitter"
+      height="20"
+      src="https://img.shields.io/twitter/follow/yasunori0418?style=flat&logo=x"
+    />
+  </a>
+</p>
 
 ## my introduction
 
