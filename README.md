@@ -1,5 +1,7 @@
 # Hi! I'm yasunori0418!
 
+![yasunori0418](https://komarev.com/ghpvc/?username=yasunori0418")
+
 ## my introduction
 
 ```yaml
