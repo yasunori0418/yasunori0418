@@ -30,12 +30,16 @@ not_likes:
       src="https://github-readme-stats.vercel.app/api?username=yasunori0418&theme=nord&show_icons=true"
     />
   </a>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img
-      alt="yasunori0418 trophy"
-      src="https://github-profile-trophy.vercel.app/?username=yasunori0418&theme=nord&column=5"
-    />
-  </a>
+
+[![yasunori0418 trophy](https://github-profile-trophy.vercel.app/?username=yasunori0418&theme=nord&column=5)
+](https://github.com/ryo-ma/github-profile-trophy)
+
+[![0-profile-details](https://raw.githubusercontent.com/yasunori0418/yasunori0418/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![1-repos-per-language](https://raw.githubusercontent.com/yasunori0418/yasunori0418/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![2-most-commit-language](https://raw.githubusercontent.com/yasunori0418/yasunori0418/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![3-stats](https://raw.githubusercontent.com/yasunori0418/yasunori0418/main/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![4-productive-time](https://raw.githubusercontent.com/yasunori0418/yasunori0418/main/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 </div>
 
 ## links
