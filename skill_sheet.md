@@ -35,16 +35,34 @@ OSS活動の一環として、GitHub-CLIへPRを作成しマージされてい�
 
 - できる
   - Linux
+    - 日常的に使用中
   - Vim/Neovim
+    - メインエディタとして使用
+    - プラグイン作成も可能
   - Docker/docker-compose
+    - 開発環境整備の一環で、いくつかのプロジェクトの開発基盤を作成
+  - TypeScript
+    - Denoを使用したVimプラグイン開発
+    - 自身のVimの設定にも活用
   - Python
     - SQLAlchemy
     - FastAPI
     - Pydantic
-  - Ruby
+    - 上記のライブラリを使用して、リプレイス等の実務開発の経験有り
 - 少しできる
+  - PHP
+    - 社内の研修で触れた経験有り
+  - Ruby
+    - 古い社内システムでRuby on Railsに触れた経験有り
+    - 新しい言語仕様やフレームワークについては詳しくはありません
+  - Perl
+    - 古いシステムでPerl/CGIに触れた経験有り
+  - Apache
 - 勉強中
+  - Go
+    - 小さな修正ですが、GitHub-CLIへのPR作成経験有り
 - 興味がある
+  - Rust
 
 ## 自己PR
 
