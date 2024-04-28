@@ -2,7 +2,8 @@
 
 <!-- textlint-disable -->
 名前: 渡邊　泰紀 （わたなべ　たいき）
-A.K.A: yasunori0418
+
+*a.k.a: yasunori0418*
 <!-- textlint-enable -->
 
 ## 目次
