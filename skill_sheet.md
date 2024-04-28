@@ -31,6 +31,16 @@ SESとして決済代行システム開発をしている会社に参画しま�
 
 ## 使える言語・ツール
 
+- できる
+  - Linux
+  - Docker/docker-compose
+  - Vim/Neovim
+  - Python
+    - SQLAlchemy
+    - FastAPI
+    - Pydantic
+  - Ruby
+
 ## 自己PR
 
 ## 職務経歴
