@@ -33,6 +33,24 @@
   </a>
 </p>
 
+<p align="left">
+  <a href="https://zenn.dev/yasunori_kirin">
+    <img height="20" src="https://badgen.org/img/zenn/yasunori_kirin/likes?style=plastic" alt="Likes" />
+  </a>
+  <a href="https://zenn.dev/yasunori_kirin">
+    <img height="20" src="https://badgen.org/img/zenn/yasunori_kirin/followers?style=plastic" alt="Followers" />
+  </a>
+  <a href="https://zenn.dev/yasunori_kirin">
+    <img height="20" src="https://badgen.org/img/zenn/yasunori_kirin/articles?style=plastic" alt="Articles" />
+  </a>
+  <a href="http://qiita.com/yasunori-kirin0418">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/yasunori-kirin0418/contributions.svg" />
+  </a>
+  <a href="http://qiita.com/yasunori-kirin0418">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/yasunori-kirin0418/posts.svg" />
+  </a>
+</p>
+
 ## my introduction
 
 ```yaml
