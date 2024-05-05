@@ -83,6 +83,10 @@ OSS活動の一環として、GitHub-CLIへPRを作成しマージされてい�
   - Ubuntu
   - Docker / docker-compose
   - AWS - CloudFormation
+- 技術フェーズ
+  - 詳細設計
+  - 実装
+  - テスト
 - チーム構成
   - 全体：4名
   - ロール：メンバー
