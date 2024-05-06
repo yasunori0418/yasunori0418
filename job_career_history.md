@@ -57,6 +57,10 @@ OSS活動の一環として、GitHub-CLIへPRを作成しマージされてい�
 <details>
 <summary>社内活動</summary>
 
+### 社内賞表: 2023年『Show Your Professionalism』
+
+2023年の納会にて、会社のValueにある『Show Your Professionalism』を達成したとして賞表されました。
+
 ### 社内の技術記事管理システム（不定期参加）
 
 月に1回有志の集りで開発が進められている社内向け技術記事管理システムの開発プロジェクトに参加しています。
