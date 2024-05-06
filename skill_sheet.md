@@ -36,6 +36,7 @@
   - SQLAlchemy
   - FastAPI
   - Pydantic
+  - pytest
   - 上記のライブラリを使用して、リプレイス等の実務開発の経験有り
 - Ruby
   - 古い社内システムでRuby on Railsに触れた経験有り
