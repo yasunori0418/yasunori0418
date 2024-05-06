@@ -92,6 +92,23 @@
 
 ### OSS活動
 
+普段から使用するVimのプラグインに対して、修正や機能追加のPRを作成した経験があります。
+代表的なOSS活動として、GitHub-CLIにPRを作成し[v2.46.0](https://github.com/cli/cli/releases/tag/v2.46.0)でリリースされています。
+
 ### 登壇経験
+
+Vimに関するイベント内で何度か登壇した経験があります。
+
+<!-- textlint-disable -->
+- [2023年6月30日 ゴリラ.vim](https://gorillavim.connpass.com/event/283937/)
+  - [設定をluaに書き直した](https://docs.google.com/presentation/d/1tOa4l5L2hHAYC7tXq0Y9DWvDmvQ9fLxKBPHr5XyBcAI/edit?usp=sharing)
+  - 初のイベント登壇
+- [VimConf 2023 Tiny 懇親会LT](https://vimconf.org/2023/)
+  - [vimを切っ掛けにエンジニアになった話](https://zenn.dev/vim_jp/articles/0002-engineer_with_vim)
+  - 当日、懇親会LTに登壇し、その時書き上げた内容を記事化しました
+- [2024年2月10日 ゴリラ.vim](https://gorillavim.connpass.com/event/307622/)
+  - [設定をすることは自由の象徴](https://docs.google.com/presentation/d/1XHrsRwUkwbXf4nFyhjVxoOEKMuhvmQRBqOoEH3vfgZs/edit?usp=sharing)
+  - 当日、登壇者の欠員が出たため、急遽LTに参加しました
+<!-- textlint-enable -->
 
 ### 技術記事
