@@ -112,3 +112,9 @@ Vimに関するイベント内で何度か登壇した経験があります。
 <!-- textlint-enable -->
 
 ### 技術記事
+
+主にVimに関する記事を中心に、Zennをメインに記事を投稿しています。
+過去にはQiitaにも記事を投稿しています。
+
+- [Zenn.dev](https://zenn.dev/yasunori_kirin)
+- [Qiita](https://qiita.com/yasunori-kirin0418)
