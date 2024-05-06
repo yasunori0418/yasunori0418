@@ -98,5 +98,6 @@ not_likes:
 - [Twitter（X）](https://twitter.com/YKirin0418)
 - [Zenn](https://zenn.dev/yasunori_kirin)
 - [Qiita](https://qiita.com/yasunori-kirin0418)
+- [connpass](https://connpass.com/user/yasunori-kirin0418/)
 - [スキルシート](https://github.com/yasunori0418/yasunori0418/blob/main/skill_sheet.md)
 - [職務経歴書](https://github.com/yasunori0418/yasunori0418/blob/main/job_career_history.md)
