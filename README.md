@@ -54,7 +54,8 @@
 ## my introduction
 
 ```yaml
-name: yasunori0418
+name: Taiki Watanabe
+a.k.a: yasunori0418
 likes:
   - Arch Linux
   - Vim/Neovim
