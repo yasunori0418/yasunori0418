@@ -62,7 +62,7 @@ likes:
   - dotfiles
   - docker/docker-compose
 not_likes:
-  - Windows # I not like Windows a little bit……
+  - Windows # I don't like Windows a little bit……
 ```
 
 ## status
