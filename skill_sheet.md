@@ -24,7 +24,7 @@
 
 - Linux
   - 日常的に使用中
-- Bash & Makefile
+- Bash, AWK, Makefile
   - 上記のLinuxを日常的に使用する中で、さまざまなところで利用
   - チームの開発環境構築ツールの1つとして提供した経験有り
 - Git
@@ -43,14 +43,16 @@
     - 上記のライブラリを使用して、リプレイス等の実務開発の経験有り
   - pytest
     - 新規実装やリプレイスしたアプリケーションのテストコード実装経験有り
-- Ruby
-  - 古い社内システムでRuby on Railsに触れた経験有り
-  - 新しい言語仕様やフレームワークについては詳しくはありません
 - RDBMS
   - MySQL
     - 1億レコードのテーブル移行作業の経験有り
     - 移行作業に合わせて、Alter文と同等のプロシージャを作成
   - Oracle
+- PHP/Laravel
+  - 社内の記事管理CMS開発の経験有り
+  - 社内へ向けた自主制作の独自モジューラブルCMSの設計と仮実装
+  - ドメイン駆動で設計された自社開発プロダクトの開発
+  - 受託開発で予約管理システムの開発
 
 ### 少しできる（実務経験はあるが、調べながら使える程度）
 
@@ -64,9 +66,9 @@
   - CloudFormation
     - 実装途中のLPサイト自動生成機能を完成させました
     - 01での開発経験は無し
-- PHP
-  - 社内の記事管理CMS開発の経験有り
-  - 社内へ向けた自主制作の独自モジューラブルCMSの設計と仮実装
+- Ruby
+  - 古い社内システムでRuby on Railsに触れた経験有り
+  - 新しい言語仕様やフレームワークについては詳しくはありません
 - Perl
   - 古いシステムでPerl/CGIに触れた経験有り
 - Apache
@@ -90,7 +92,7 @@
   - 現在はNeovimをメインとして使用
 - Linux
   - 個人開発のOSとして2021年からメインで使用
-  - 現在はArch Linuxをメインとして使用
+  - 現在はNixOS Linuxをメインとして使用
 - zsh
   - 開発用のOSをLinuxにしたのと同時にメインのシェルとして使用
 
@@ -115,6 +117,9 @@ Vimに関するイベント内で何度か登壇した経験があります。
 - [2024年2月10日 ゴリラ.vim](https://gorillavim.connpass.com/event/307622/)
   - [設定をすることは自由の象徴](https://docs.google.com/presentation/d/1XHrsRwUkwbXf4nFyhjVxoOEKMuhvmQRBqOoEH3vfgZs/edit?usp=sharing)
   - 当日、登壇者の欠員が出たため、急遽LTに参加しました
+- [2024年10月26日 Nix Meetup #1](https://nix-ja.connpass.com/event/330557/)
+  - [nixの設定分割のやりかたと、dotfilesとの組合せについて](https://docs.google.com/presentation/d/1WABhHUJtuY08_nMwjMnmiZw1MC605iT018t6sBleHto/edit#slide=id.p)
+  - 最近触り出したNixで登壇しました
 <!-- textlint-enable -->
 
 ### 技術記事
