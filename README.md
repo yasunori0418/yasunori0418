@@ -57,12 +57,10 @@
 name: Taiki Watanabe
 a.k.a: yasunori0418
 likes:
-  - Arch Linux
+  - Linux desktop
   - Vim/Neovim
   - dotfiles
-  - docker/docker-compose
-not_likes:
-  - Windows # I don't like Windows a little bit……
+memo: Always, everyday, everyone, a memorial year of linux desktop!!
 ```
 
 ## status
