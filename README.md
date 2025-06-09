@@ -56,7 +56,7 @@
 ```yaml
 name: Taiki Watanabe
 a.k.a: yasunori0418
-likes:
+loves:
   - Linux desktop
   - Vim/Neovim
   - dotfiles
