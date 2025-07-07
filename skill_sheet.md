@@ -108,18 +108,25 @@
 Vimに関するイベント内で何度か登壇した経験があります。
 
 <!-- textlint-disable -->
-- [2023年6月30日 ゴリラ.vim](https://gorillavim.connpass.com/event/283937/)
+- [2023年6月30日 ゴリラ.vim #27](https://gorillavim.connpass.com/event/283937/)
   - [設定をluaに書き直した](https://docs.google.com/presentation/d/1tOa4l5L2hHAYC7tXq0Y9DWvDmvQ9fLxKBPHr5XyBcAI/edit?usp=sharing)
   - 初のイベント登壇
 - [VimConf 2023 Tiny 懇親会LT](https://vimconf.org/2023/)
   - [vimを切っ掛けにエンジニアになった話](https://zenn.dev/vim_jp/articles/0002-engineer_with_vim)
   - 当日、懇親会LTに登壇し、その時書き上げた内容を記事化しました
-- [2024年2月10日 ゴリラ.vim](https://gorillavim.connpass.com/event/307622/)
+- [2024年2月10日 ゴリラ.vim #30](https://gorillavim.connpass.com/event/307622/)
   - [設定をすることは自由の象徴](https://docs.google.com/presentation/d/1XHrsRwUkwbXf4nFyhjVxoOEKMuhvmQRBqOoEH3vfgZs/edit?usp=sharing)
   - 当日、登壇者の欠員が出たため、急遽LTに参加しました
 - [2024年10月26日 Nix Meetup #1](https://nix-ja.connpass.com/event/330557/)
   - [nixの設定分割のやりかたと、dotfilesとの組合せについて](https://docs.google.com/presentation/d/1WABhHUJtuY08_nMwjMnmiZw1MC605iT018t6sBleHto/edit#slide=id.p)
   - 最近触り出したNixで登壇しました
+- [2025年3月9日 Nix Meetup #2](https://nix-ja.connpass.com/event/342908/)
+  - [flake-partsとdevenvで作るKotlin/SpringBoot環境](https://docs.google.com/presentation/d/1usCxrTt0CnuDGig0hId87Ep14kZPdNMr4SK2ypPdEnU/edit?pli=1)
+  - 転職先でkotlinを触るため、実験的な環境を構築した話です
+- [2025年5月31日 ゴリラ.vim #36](https://gorillavim.connpass.com/event/353161/)
+  - [スポンサーセッション](https://speakerdeck.com/yasunori0418/gorira-dot-vim-number-36-vim-x-sns)
+  - Vim入門向けな内容を話しました
+  - ログラスのイベントスペースを使う申請などしました
 <!-- textlint-enable -->
 
 ### 技術記事
