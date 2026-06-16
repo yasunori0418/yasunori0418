@@ -87,8 +87,7 @@ memo: Always, everyday, everyone, a memorial year of linux desktop!!
 [![3-stats](https://raw.githubusercontent.com/yasunori0418/yasunori0418/main/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![4-productive-time](https://raw.githubusercontent.com/yasunori0418/yasunori0418/main/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![yasunori0418 trophy](https://github-profile-trophy.vercel.app/?username=yasunori0418&theme=nord&column=5)
-](https://github.com/ryo-ma/github-profile-trophy)
+[![yasunori0418 trophy](https://trophy.benkou.dev/?username=yasunori0418&theme=nord&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
